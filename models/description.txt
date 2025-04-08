@@ -1,0 +1,7 @@
+This file contains the models created during training
+
+Neural Network already exists and is saved as "neural_network_model.h5"
+
+The models for Support Vector Machine and Random Forest cannot be saved in the 
+github repo and has to be trained when running the project for the first time.
+These will be as "svm_model.pkl" and "rf_model.pkl"
