@@ -19,5 +19,8 @@ To run this project locally, follow the steps below:
 - If all packages cannot be installed directly, create a virtual environment (as shown belov) and then run the `pip install` command above:
   ```bash
   python -m venv env
+
+  ```bash
   source env/bin/activate # on macOS/Linux
+  or
   env\Scripts\activate # on Windows
