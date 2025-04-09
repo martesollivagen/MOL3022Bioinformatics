@@ -15,6 +15,11 @@ To run this project locally, follow the steps below:
 
   ```bash
   pip install numpy pandas scikit-learn matplotlib tensorflow keras
+  ```
+- Run the application:
+  ```bash
+  python main.py
+  ```
 
 - If all packages cannot be installed directly, create a virtual environment (as shown below) and then run the `pip install` command above:
 1. create environment
